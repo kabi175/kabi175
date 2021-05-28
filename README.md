@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="" alt="Welcome!" width="300"/>
