@@ -14,17 +14,20 @@
     <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabi175&layout=demo&langs_count=5"/>
 
   <p aign="left" width="200" height="900">
-    <img height=50 src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/python.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/javascript.png">
-    <img height=50 src="https://img.icons8.com/color/96/000000/typescript.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/golang.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/css3.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/react-native.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/git.png"/>
-    <img height=50 src="https://img.icons8.com/fluent/96/000000/github.png"/>
-    <img height=50 src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/python.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/javascript.png">
+    <br>
+    <img height=100 src="https://img.icons8.com/color/96/000000/typescript.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/golang.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+    <br>
+    <img height=100 src="https://img.icons8.com/color/96/000000/css3.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/react-native.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/git.png"/>
+    <br>
+    <img height=100 src="https://img.icons8.com/fluent/96/000000/github.png"/>
+    <img height=100 src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
   </p>
 
 
