@@ -10,11 +10,11 @@
 <h2>👨🏻‍💻 A little about me</h2>
 
 <ul>
- <li> I’m currently working on my side project a chat application
- <li> I’m currently learning Algorithms
- <li> Ask me about Python, Go, JS and TS
- <li> Reach me on LinkedIn  <a href="https://linkedin.com/in/kabilan-muthusamy">Kabilan Muthusamy</a> 
- <li> Checkout my articles on <a href="https://auth.geeksforgeeks.org/user/kabilan/articles">Geeksforgeeks</a>
+ <li> 🖥 I’m currently working on my side project a chat application
+ <li> :book: I’m currently learning Algorithms
+ <li> 💬 Ask me about Python, Go, JS and TS
+ <li> 📫 Reach me on LinkedIn  <a href="https://linkedin.com/in/kabilan-muthusamy">Kabilan Muthusamy</a> 
+ <li> 📝 Checkout my articles on <a href="https://auth.geeksforgeeks.org/user/kabilan/articles">Geeksforgeeks</a>
 </ul>
 
 <h2><img height=30 src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png"/> Tech  Stack</h2>
