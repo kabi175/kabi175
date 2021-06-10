@@ -39,7 +39,7 @@
   </p>
 
 </p>
-## This Week I Spent My Time On:
+<h2> 💻 This Week I Spent My Time On:</h2>
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
