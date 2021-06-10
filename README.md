@@ -1,11 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Kabilan Muthusamy </h1>
 <div align="center">
 <a href="mailto:kabilan-muthusamy@outlook.com">
-  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  <img height=30 src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/kabilan-muthusamy" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/kabilan-muthusamy" target="_blank">
+  <img height=30 src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+  <a href="https://dev.to/kabilan", target="_blank">
+  <img height=30 src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </div>
 <h2>👨🏻‍💻 A little about me</h2>
 
