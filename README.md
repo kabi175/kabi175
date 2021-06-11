@@ -1,49 +1,49 @@
-<h1 align="center"> Hi there 👋, I'm Kabilan Muthusamy </h1>
-<div align="center">
-<a href="mailto:kabilan-muthusamy@outlook.com">
-  <img height=30 src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/kabilan-muthusamy" target="_blank">
-  <img height=30 src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  <a href="https://dev.to/kabilan", target="_blank">
-  <img height=30 src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
+<div align="center"> 
+  
+# Hi there 👋, I'm Kabilan Muthusamy 
+
 </div>
-<h2>👨🏻‍💻 A little about me</h2>
 
-<ul>
- <li> 🖥 I’m currently working on my side project a chat application
- <li> :book: I’m currently learning Algorithms
- <li> 💬 Ask me about Python, Go, JS and TS
- <li> 📫 Reach me on LinkedIn  <a href="https://linkedin.com/in/kabilan-muthusamy">Kabilan Muthusamy</a> 
- <li> 📝 Checkout my articles on <a href="https://auth.geeksforgeeks.org/user/kabilan/articles">Geeksforgeeks</a>
-</ul>
 
-<h2><img height=30 src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png"/> Tech  Stack</h2>
-<p>
-    <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabi175&layout=demo&langs_count=5"/>
 
-  <p aign="left" width="200" height="900">
-    <img height=100 src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/python.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/javascript.png">
-    <br>
-    <img height=100 src="https://img.icons8.com/color/96/000000/typescript.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/golang.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-    <br>
-    <img height=100 src="https://img.icons8.com/color/96/000000/css3.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/react-native.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/git.png"/>
-    <br>
-    <img height=100 src="https://img.icons8.com/fluent/96/000000/github.png"/>
-    <img height=100 src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
-  </p>
+[![mail](https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white)](mailto:kabilan-muthusamy@outlook.com)
 
-</p>
-<h2> 💻 This Week I Spent My Time On:</h2>
-<div>
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kabilan-muthusamy)
+
+[![dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kabilan)
+
+
+-------
+
+💻 **A little about me**
+
+- 🖥 I’m currently working on my side project a chat application
+- :book: I’m currently learning Algorithms
+- 💬 Ask me about Python, Go, JS and TS
+- 📫 Reach me on LinkedIn  [Kabilan Muthusamy](https://linkedin.com/in/kabilan-muthusamy)
+- 📝 Checkout my articles on [Geeksforgeeks](https://auth.geeksforgeeks.org/user/kabilan/articles)
+
+-------
+
+![techstach](https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png) **Tech  Stack**
+    
+![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
+![python](https://img.icons8.com/color/96/000000/python.png)
+![js](https://img.icons8.com/color/96/000000/javascript.png)
+![ts](https://img.icons8.com/color/96/000000/typescript.png)
+<br>
+![go](https://img.icons8.com/color/96/000000/golang.png)
+![html](https://img.icons8.com/color/96/000000/html-5--v1.png)
+![css](https://img.icons8.com/color/96/000000/css3.png)
+![react](https://img.icons8.com/color/96/000000/react-native.png)
+<br>
+![git](https://img.icons8.com/color/96/000000/git.png)
+![github](https://img.icons8.com/fluent/96/000000/github.png)
+![mysql](https://img.icons8.com/color/96/000000/mysql-logo.png)
+
+-------
+ 
+💻 **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
 C++          54 mins         ███████████████████████░░   91.57 % 
@@ -51,4 +51,3 @@ VimL         3 mins          █▒░░░░░░░░░░░░░░░
 TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
-</div>
