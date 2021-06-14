@@ -23,7 +23,7 @@
 
 ## 💻 **A little about me**
 
-- 🖥 I’m currently working on my side project a chat application
+- 🖥 I’m currently working on task planner app
 - 📚 I’m currently learning App development
 - 💬 Ask me about Python, Go, JS and TS
 - 📫 Reach me on LinkedIn  [Kabilan Muthusamy](https://linkedin.com/in/kabilan-muthusamy)
