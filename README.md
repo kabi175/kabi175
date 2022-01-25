@@ -6,7 +6,7 @@
 
 <p align="center">
   
-  <a href="mailto:kabilan-muthusamy@outlook.com">
+  <a href="mailto:kabi175.tech@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
 
