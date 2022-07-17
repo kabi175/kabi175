@@ -54,7 +54,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java          25 mins         █████████████████▓░░░░░░░   70.83 %
+JavaScript    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+XML           3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+IDEA_MODULE   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
