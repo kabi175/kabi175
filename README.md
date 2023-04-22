@@ -23,12 +23,9 @@
 
 ## 💻 **A little about me**
 
-- 🖥 I’m currently working on Mobile app development.
+- 🖥 I'm a software ninja who slays bugs and creates kick-ass code with JS, Golang, and Java.
 - 📚 I’m currently learning Backend development.
-- 💬 Ask me about Python, Go and JS.
 - 📫 Reach me on LinkedIn [Kabilan Muthusamy](https://linkedin.com/in/kabilan-muthusamy)
-- 📝 Checkout my articles on [Geeksforgeeks](https://auth.geeksforgeeks.org/user/kabilan/articles)
-
 
 
 ## 🛠️ **Tech  Stack**
