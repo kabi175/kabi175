@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# Hi there 👋, I'm Kabilan Muthusamy 
+# Hi there 👋, I'm Kabilan 
 
 </div>
 
@@ -45,14 +45,3 @@
 ![git](https://img.icons8.com/color/96/000000/git.png)
 ![github](https://img.icons8.com/fluent/96/000000/github.png)
 ![mysql](https://img.icons8.com/color/96/000000/mysql-logo.png)
-
- 
-## 💻 **This Week I Spent My Time On**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
