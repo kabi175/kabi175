@@ -30,8 +30,6 @@
 
 ## 🛠️ **Tech  Stack**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabi175&layout=demo" /> 
-
 ![cpp](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)
 ![python](https://img.icons8.com/color/96/000000/python.png)
 ![js](https://img.icons8.com/color/96/000000/javascript.png)
